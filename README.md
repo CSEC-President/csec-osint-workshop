@@ -1,4 +1,4 @@
-# CSEC OSINT Investigation Workshop
+# CSEC OSINT Workshop
 
 A hands-on introduction to Open Source Intelligence (OSINT) techniques through a real-world investigative challenge.
 
@@ -28,6 +28,8 @@ Your task is to investigate a Twitter/X account and uncover specific information
 2. Where does this person reside? (City)
 3. What is the name of their boss? (First Last)
 4. What is the name of the hotel they are currently staying at?
+
+### Submit the answers at: https://csec.umd.edu/workshop-ans/osint-ans.html
 
 ---
 
